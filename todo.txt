@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 feature/christian2
 halloadfa 
 
@@ -7,6 +8,13 @@ feature/christian2
 =======
 Hallodido 
 >>>>>>> 4f9186d2a70c779072ace9414b29c5cd116653df
+=======
+testfdas  cengizchange
+halloadfa 
+
+
+cengizchange
+>>>>>>> 576f5b7375ea447fd0c666874640c1b9d8e56bb0
 
 
 
@@ -14,7 +22,11 @@ Hallodido
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature/christian2
 =======
 So 
 >>>>>>> 4f9186d2a70c779072ace9414b29c5cd116653df
+=======
+cengizchange
+>>>>>>> 576f5b7375ea447fd0c666874640c1b9d8e56bb0
