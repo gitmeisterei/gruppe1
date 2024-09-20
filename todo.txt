@@ -2,11 +2,19 @@ feature/christian2
 halloadfa 
 
 
+<<<<<<< HEAD
 feature/christian2
+=======
+Hallodido 
+>>>>>>> 4f9186d2a70c779072ace9414b29c5cd116653df
 
 
 
 
 
 
+<<<<<<< HEAD
 feature/christian2
+=======
+So 
+>>>>>>> 4f9186d2a70c779072ace9414b29c5cd116653df
